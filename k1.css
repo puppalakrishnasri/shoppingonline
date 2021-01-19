@@ -1,0 +1,23 @@
+
+        *{
+            margin:0;
+            padding:0;
+        }
+        ul{
+            list-style-type:none;
+            display:flex;
+
+            background-color: burlywood;
+            padding: 5px;
+        }
+        a{
+            /*border: 1px solid;*/
+            margin: 5px;
+            color: honeydew;
+            text-decoration: none;
+        }
+        .d{
+            background-color:palevioletred;
+            padding: 5px;
+        }
+    
